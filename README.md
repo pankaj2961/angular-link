@@ -13,6 +13,7 @@ pagination
  
 1.https://ciphertrick.com/2015/06/01/search-sort-and-pagination-ngrepeat-angularjs/
 
+
 To check no of watches  in angular
 
  1. (function () { 
@@ -35,3 +36,8 @@ To check no of watches  in angular
 
         console.log(watchers.length);
     })();
+
+Angular best practices( filters with ng-repeat)
+  1  https://toddmotto.com/categories/angularjs
+  
+  
