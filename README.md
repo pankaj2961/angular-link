@@ -40,4 +40,6 @@ To check no of watches  in angular
 Angular best practices( filters with ng-repeat)
   1  https://toddmotto.com/categories/angularjs
   
+Select All functionality
+  1. http://www.angulartutorial.net/2015/10/angular-select-allde-select-all-checkbox.html
   
