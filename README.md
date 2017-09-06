@@ -38,6 +38,7 @@ To check no of watches  in angular
     })();
 
 Angular best practices( filters with ng-repeat)
+
   1  https://toddmotto.com/categories/angularjs
   
 Select All functionality
