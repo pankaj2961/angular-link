@@ -43,4 +43,7 @@ Angular best practices( filters with ng-repeat)
   
 Select All functionality
   1. http://www.angulartutorial.net/2015/10/angular-select-allde-select-all-checkbox.html
+
+order of execution of block in angular
+   1.https://stackoverflow.com/questions/20663076/angularjs-app-run-documentation
   
