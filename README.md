@@ -46,4 +46,11 @@ Select All functionality
 
 order of execution of block in angular
    1.https://stackoverflow.com/questions/20663076/angularjs-app-run-documentation
+   2.   1 => Run
+        2 => Controller
+        3 => Directive
+        4 => Filter
+        * => Factory
+        * => Service
+        * => Provider
   
